@@ -8,4 +8,6 @@ This is the homepage for my IT1400 midterm project
 
 3. [Images](https://github.com/parth122p/IT1400MidtermProject2023/blob/bd557b3c941f67f378a696843ab6650d19109b86/Images)
 
-4. [Code]()
+4. [Code](https://github.com/parth122p/IT1400MidtermProject2023/blob/5174c8b0529e494f538088dcd209eaad9dcbe6f9/A%20block%20of%20code.md)
+
+5. [Bold and Italicized letters](https://github.com/parth122p/IT1400MidtermProject2023/blob/5174c8b0529e494f538088dcd209eaad9dcbe6f9/Bolded%20and%20Italicized.md)
